@@ -10,7 +10,7 @@ The **Services layer** represents the core business logic of the Enterprise Clou
 | -------------- | ------------------------------------- |
 | Student Name   | Kavindi Sathsarani Manimendra         |
 | Student Number | 2301692042                            |
-| Slack Handle   | @kavindi sathsarani                   |
+| Slack Handle   | kavindi sathsarani                   |
 | Module         | ITS 2130 Enterprise Cloud Application |
 | Program        | GDSE @ IJSE                           |
 | GCP Project ID | it-assignment-3                       |
