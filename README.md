@@ -131,7 +131,7 @@ Client → API Gateway → Microservices
 ### 🔹 Clone Repository
 
 ```bash
-git clone --recursive https://github.com/kavindisathsarani/Capstone-Project-Platform.git
+git clone --recursive https://github.com/kavindisathsarani/Capstone-Project-Services.git
 cd Services
 ```
 
